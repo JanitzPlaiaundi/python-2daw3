@@ -1,0 +1,12 @@
+Articulo               Sin IVA   Con IVA
+----------------------------------------
+Pan                        1.1      1.33
+Leche                     0.95      1.15
+Huevos (docena)            2.4      2.90
+Arroz (1kg)               1.85      2.24
+Pasta (500g)               1.2      1.45
+Aceite (1L)                5.5      6.65
+Café (250g)                3.8      4.60
+Azúcar (1kg)               1.6      1.94
+Manzanas (kg)             2.95      3.57
+Pollo (kg)                 6.4      7.74

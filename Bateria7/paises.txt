@@ -1,0 +1,12 @@
+País                Capital                Habitantes(mill.)
+------------------------------------------------------------
+España              Madrid                                47
+Francia             París                                 67
+Alemania            Berlín                                83
+Italia              Roma                                  60
+Portugal            Lisboa                                10
+Reino Unido         Londres                               67
+Rusia               Moscú                                144
+China               Pekín                               1412
+Estados Unidos      Washington D.C.                      331
+Brasil              Brasilia                             213
